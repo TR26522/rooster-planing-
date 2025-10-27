@@ -79,3 +79,62 @@ Als werknemer wil ik een overzicht kunnen zien van mijn gewerkte uren per week, 
 
 Beschrijving:
 Als werknemer wil ik de themaweergave van de website kunnen aanpassen (licht of donker modus), zodat ik de interface kan gebruiken op een manier die prettig is voor mijn ogen en persoonlijke voorkeur.
+
+
+
+
+
+
+
+
+
+
+
+User Stories – Multi-company Roosterwebsite
+1. Rol: Ontwikkelaar / Beheerder
+
+Bedrijvenaccounts aanmaken
+Beschrijving: Als ontwikkelaar wil ik accounts voor nieuwe bedrijven kunnen aanmaken, zodat zij toegang krijgen tot de website en hun eigen medewerkers kunnen beheren.
+
+Beheerdersrechten instellen
+Beschrijving: Als ontwikkelaar wil ik per bedrijf een hoofdbeheerder kunnen instellen, zodat die beheerder medewerkers kan toevoegen, verwijderen en roosters beheren.
+
+Multi-company scheiding garanderen
+Beschrijving: Als ontwikkelaar wil ik dat gegevens van bedrijven strikt gescheiden zijn, zodat medewerkers of managers van het ene bedrijf geen toegang hebben tot data van andere bedrijven.
+
+2. Rol: Bedrijf (beheerder)
+
+Medewerkers beheren
+Beschrijving: Als bedrijf wil ik medewerkers kunnen toevoegen, bewerken en verwijderen, zodat mijn personeelsbestand altijd up-to-date is.
+
+Medewerkersaccounts aanmaken
+Beschrijving: Als bedrijf wil ik voor mijn medewerkers accounts kunnen aanmaken, zodat zij kunnen inloggen en hun persoonlijke rooster kunnen bekijken.
+
+Roosters beheren
+Beschrijving: Als bedrijf wil ik medewerkers kunnen inplannen en diensten aanpassen, zodat ik de planning efficiënt kan beheren en flexibel kan reageren op afwezigheden.
+
+Notificaties instellen
+Beschrijving: Als bedrijf wil ik dat medewerkers meldingen ontvangen bij roosterwijzigingen, zodat iedereen altijd op de hoogte is van updates.
+
+Rollen en rechten beheren binnen het bedrijf
+Beschrijving: Als bedrijf wil ik verschillende rollen kunnen instellen (bijv. manager, medewerker), zodat alleen bevoegde personen bepaalde acties kunnen uitvoeren.
+
+Ziekteverzuim en planning inzichtelijk maken
+Beschrijving: Als bedrijf wil ik kunnen zien hoeveel procent van mijn personeel zich ziekmeldt en hoeveel uren gewerkt zijn, zodat ik inzicht heb in de personeelsplanning en welzijn kan monitoren.
+
+3. Rol: Medewerker
+
+Inloggen op persoonlijke account
+Beschrijving: Als medewerker wil ik kunnen inloggen op mijn persoonlijke account, zodat ik toegang heb tot mijn werkrooster en persoonlijke gegevens.
+
+Werkrooster bekijken
+Beschrijving: Als medewerker wil ik mijn persoonlijke werkrooster kunnen bekijken, zodat ik weet wanneer en waar ik moet werken.
+
+Ziekmelding indienen
+Beschrijving: Als medewerker wil ik mij eenvoudig ziek kunnen melden via het systeem, zodat mijn werkgever direct op de hoogte is en vervanging kan regelen.
+
+Inzicht in gewerkte uren
+Beschrijving: Als medewerker wil ik mijn gewerkte uren per week, maand en jaar kunnen bekijken, zodat ik mijn werkbelasting kan volgen.
+
+Thema-instellingen aanpassen
+Beschrijving: Als medewerker wil ik de weergave van de website kunnen aanpassen (licht of donker modus), zodat ik de interface kan gebruiken op een manier die prettig is voor mijn ogen.
