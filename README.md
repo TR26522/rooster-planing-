@@ -131,7 +131,7 @@ Werkrooster bekijken
 Beschrijving: Als medewerker wil ik mijn persoonlijke werkrooster kunnen bekijken, zodat ik weet wanneer en waar ik moet werken.
 
 Ziekmelding indienen
-Beschrijving: Als medewerker wil ik mij eenvoudig ziek kunnen melden via het systeem, zodat mijn werkgever direct op de hoogte is en vervanging kan regelen.
+Beschrijving: Als medewerker wil ik mij eenvoudig ziek kunnen melden via het systeem, zodat mijn werkgever direct op de hoogte is en vervanging kan regelen.bbbb
 
 Inzicht in gewerkte uren
 Beschrijving: Als medewerker wil ik mijn gewerkte uren per week, maand en jaar kunnen bekijken, zodat ik mijn werkbelasting kan volgen.
